@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a029db6-486b-4695-8f29-9371761e60d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/my_project/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audios/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Lexend Deca-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Customers_Enjoy_Food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/MealPlanner_Rounded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Screenshot_2024-02-09_150625.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Screenshot_2024-02-09_150631.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Screenshot_2024-02-09_150638.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Screenshot_2024-02-09_150646.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Screenshot_2024-02-09_150651.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Screenshot_2024-02-09_150656.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/WhatsApp_Image_2024-02-04_at_2.26.35_AM-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/WhatsApp_Image_2024-02-19_at_8.44.11_PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/WhatsApp_Image_2024-02-19_at_9.50.47_PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/WhatsApp_Image_2024-02-19_at_9.50.48_PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/WhatsApp_Image_2024-02-19_at_9.52.03_PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/_a89c5b1e-79de-4a39-8bb7-db0d7e86a894.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/app_launcher_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/download__6_-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kheti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lottie_animations/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/rive_animations/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/firestore.indexes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/firestore.rules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/functions/api_manager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/functions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/functions/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase/storage.rules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/ImageNotification/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/ImageNotification/NotificationService.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Runner.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/auth_manager.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/base_auth_user_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/firebase_auth/anonymous_auth.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/firebase_auth/apple_auth.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/firebase_auth/auth_util.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/firebase_auth/email_auth.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/firebase_auth/firebase_auth_manager.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/firebase_auth/firebase_user_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/firebase_auth/github_auth.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/firebase_auth/google_auth.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/firebase_auth/jwt_token_auth.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/backend.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/firebase/firebase_config.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/firebase_analytics/analytics.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/category_page_record.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/company_information_record.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/feedback_record.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/index.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/meals_record.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/onboarding_options_record.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/structs/chefs_struct.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/structs/diet_options_struct.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/structs/index.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/support_center_record.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/users_record.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/util/firestore_util.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/backend/schema/util/schema_util.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/book_equipment/book_equipment_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/book_equipment/book_equipment_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/accordion_section/accordion_section_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/accordion_section/accordion_section_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/accordion_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/diet_item/diet_item_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/diet_item/diet_item_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/empty_state/empty_state_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/empty_state/empty_state_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/feedback_bottom_sheet/feedback_bottom_sheet_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/feedback_bottom_sheet/feedback_bottom_sheet_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/loader_item/loader_item_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/loader_item/loader_item_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/preference_item/preference_item_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/preference_item/preference_item_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/title_with_subtitle/title_with_subtitle_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/title_with_subtitle/title_with_subtitle_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/custom_functions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/flutter_flow_animations.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/flutter_flow_data_table.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/flutter_flow_drop_down.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/flutter_flow_google_map.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/flutter_flow_icon_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/flutter_flow_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/flutter_flow_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/flutter_flow_util.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/flutter_flow_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/internationalization.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/nav/nav.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/nav/serialization_util.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/place.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_flow/uploaded_file.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/nearby_equipment/nearby_equipment_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/nearby_equipment/nearby_equipment_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/home/dashboard/dashboard_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/home/dashboard/dashboard_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/forgot_password/forgot_password_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/forgot_password/forgot_password_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/onboarding_create_account/onboarding_create_account_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/onboarding_create_account/onboarding_create_account_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/onboarding_slideshow/onboarding_slideshow_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/onboarding_slideshow/onboarding_slideshow_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/sign_in/sign_in_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/sign_in/sign_in_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/splash/splash_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/onboarding/splash/splash_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/about_us/about_us_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/about_us/about_us_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/edit_preferences/edit_preferences_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/edit_preferences/edit_preferences_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/edit_profile/edit_profile_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/edit_profile/edit_profile_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/personal_assistance/personal_assistance_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/personal_assistance/personal_assistance_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/profile/profile_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/profile/profile_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/support_center/support_center_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/profile/support_center/support_center_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/icons/app_launcher_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/manifest.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Shwet2022"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="be936b99-35d4-4579-869b-42ccfd396204" />
+        <option name="url" value="https://github.com/Shwet2022/khetiharii.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cb26kz0hCo91r6tFrZ2YeW3UvY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "io.flutter.reload.alreadyRun": "true",
+    "last_opened_file_path": "C:/khetiharii",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a029db6-486b-4695-8f29-9371761e60d6" name="Changes" comment="" />
+      <created>1708365784906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708365784906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

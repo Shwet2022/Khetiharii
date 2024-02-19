@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745837720735",
+    "project_id": "khetiharii",
+    "storage_bucket": "khetiharii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745837720735:android:47558ab87a185e3d735eaa",
+        "android_client_info": {
+          "package_name": "com.example.aihelper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8G4Z8EE_Rf78sPmK_K2xhCxreLirnRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745837720735:android:a18ce0248fd595f4735eaa",
+        "android_client_info": {
+          "package_name": "com.khetiharii.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8G4Z8EE_Rf78sPmK_K2xhCxreLirnRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
